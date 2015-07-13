@@ -1,5 +1,5 @@
 //MapBag code using the Adafruit Ultimate GPS module and the HMC6352 compass module (for tilt compensation, purchase the HMC6343 or any other such compass-
-//while Honeywell has stopped manufacture of this module, getting your hands on one would improve your MapBag experience hundred-fold.
+//...while Honeywell has stopped manufacture of this module, getting your hands on one would improve your MapBag experience hundred-fold.
 
 //Honywell HMC6352 Compass module from SparkFun Electronics
 //https://www.sparkfun.com/products/7915
